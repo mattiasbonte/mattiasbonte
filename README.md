@@ -1,18 +1,23 @@
+<!-- EMAIL -->
 <a href="mailto:wisecodr@gmail.com" target="_blank">
   <img width="25px" alt="Mattias' Email" title="Contact me directly" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" />
 </a>
-<a href="https://wisecoding.github.io" target="_blank">
+<!-- PORTFOLIO -->
+<!-- <a href="https://wisecoding.github.io" target="_blank">
   <img width="25px" alt="Mattias' Portfolio" title="Check out my professional portfolio" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/netlify.svg" />
-</a>
+</a> -->
+<!-- LINKEDIN -->
 <a href="https://www.linkedin.com/in/mattias-bonte" target="_blank">
   <img width="25px" alt="Mattias' LinkedIN" title="Connect with me on LinkedIN" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/linkedin.svg" />
 </a>
+<!-- GITHUB -->
 <a href="https://github.com/wisecoding" target="_blank">
   <img width="25px" alt="Mattias' GitHub" title="Inspect my GitHub repositories" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/github.svg" />
 </a>
-<a href="https://dribbble.com/Wisecodr" target="_blank">
+<!-- DRIBBLE -->
+<!-- <a href="https://dribbble.com/Wisecodr" target="_blank">
   <img width="25px" alt="Mattias' Dribbble" title="Check out my Dribbble" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/dribbble.svg" />
-</a>
+</a> -->
 
 ## Enjoy your stay! 🔎
 
@@ -20,7 +25,7 @@
 
 ## 👨🏼‍💻 About
 
-I am an electromechanical engineer who is very passionate about creating full stack web applications that look good and are functional.
+I am an ex-electromechanical engineer who is very passionate about creating full stack web applications that look good and are functional.
 
 - 🔭 I'm currently working on ...
 - 🌱 I'm currently learning [Vue 3](https://v3.vuejs.org/)
