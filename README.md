@@ -25,11 +25,11 @@
 
 ## 👨🏼‍💻 About
 
-I am an ex-electromechanical engineer who is very passionate about creating full stack web applications that look good and are functional.
+I am a ex-mechanical engineer who has discovered his passion for coding and creating full-stack web applications that look good and are functional.
 
-- 🔭 I'm currently working on ...
-- 🌱 I'm currently learning [Vue 3](https://v3.vuejs.org/)
-- 🔎 I'm looking for projects
+- 🔭 I'm currently enrolled in a full-stack coding education program.
+- 🌱 I'm learning [Vue 3](https://v3.vuejs.org/) & [Python](https://www.python.org/) on the side.
+- 🔎 I'm looking for beginner projects.
 
 ## 🛠 Stack
 
