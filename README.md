@@ -1,9 +1,9 @@
-<!-- EMAIL -->
-<a href="mailto:wisecodr@gmail.com" target="_blank">
+<!-- EMAIL  -->
+<a href="mailto:info@mattiasbonte.dev" target="_blank">
   <img width="25px" alt="Mattias' Email" title="Contact me directly" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" />
 </a>
 <!-- PORTFOLIO -->
-<!-- <a href="https://wisecoding.github.io" target="_blank">
+<!-- <a href="https://mattiasbonte.github.io" target="_blank">
   <img width="25px" alt="Mattias' Portfolio" title="Check out my professional portfolio" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/netlify.svg" />
 </a> -->
 <!-- LINKEDIN -->
@@ -11,7 +11,7 @@
   <img width="25px" alt="Mattias' LinkedIN" title="Connect with me on LinkedIN" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/linkedin.svg" />
 </a>
 <!-- GITHUB -->
-<a href="https://github.com/wisecoding" target="_blank">
+<a href="https://github.com/mattiasbonte" target="_blank">
   <img width="25px" alt="Mattias' GitHub" title="Inspect my GitHub repositories" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/github.svg" />
 </a>
 <!-- DRIBBLE -->
@@ -21,7 +21,7 @@
 
 ## Enjoy your stay! 🔎
 
-![Profile views](https://gpvc.arturio.dev/wisecoding)
+![Profile views](https://gpvc.arturio.dev/mattiasbonte)
 
 ## 👨🏼‍💻 About
 
@@ -52,6 +52,6 @@ I am a ex-mechanical engineer who has discovered his passion for coding and crea
 ![MYSQL](https://img.shields.io/badge/MySQL-purple?style=flat&logo=mysql)
 
 <!-- ## 📊 Stats -->
-<!-- [![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=wisecoding&show_icons=true&theme=algolia&hide=html,makefile&langs_count=4&count_private=true)](https://github.com/wisecoding/github-readme-stats) -->
+<!-- [![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mattiasbonte&show_icons=true&theme=algolia&hide=html,makefile&langs_count=4&count_private=true)](https://github.com/mattiasbonte/github-readme-stats) -->
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=wisecoding&show_icons=true&theme=algolia)](https://github.com/wisecoding/github-readme-stats)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=mattiasbonte&show_icons=true&theme=algolia)](https://github.com/mattiasbonte/github-readme-stats)
