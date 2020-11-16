@@ -2,10 +2,6 @@
 <a href="mailto:info@mattiasbonte.dev" target="_blank">
   <img width="25px" alt="Mattias' Email" title="Contact me directly" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/gmail.svg" />
 </a>
-<!-- PORTFOLIO -->
-<!-- <a href="https://mattiasbonte.github.io" target="_blank">
-  <img width="25px" alt="Mattias' Portfolio" title="Check out my professional portfolio" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/netlify.svg" />
-</a> -->
 <!-- LINKEDIN -->
 <a href="https://www.linkedin.com/in/mattias-bonte" target="_blank">
   <img width="25px" alt="Mattias' LinkedIN" title="Connect with me on LinkedIN" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/linkedin.svg" />
@@ -14,44 +10,42 @@
 <a href="https://github.com/mattiasbonte" target="_blank">
   <img width="25px" alt="Mattias' GitHub" title="Inspect my GitHub repositories" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/github.svg" />
 </a>
-<!-- DRIBBLE -->
-<!-- <a href="https://dribbble.com/Wisecodr" target="_blank">
-  <img width="25px" alt="Mattias' Dribbble" title="Check out my Dribbble" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/dribbble.svg" />
-</a> -->
 
-## Enjoy your stay! 🔎
+## Welcome 👋🏼...
 
 ![Profile views](https://gpvc.arturio.dev/mattiasbonte)
 
 ## 👨🏼‍💻 About
 
-I am a ex-mechanical engineer who has discovered his passion for coding and creating full-stack web applications that look good and are functional.
+I have a strong drive to take on responsibility, be proactive, keep on learning and work hard. This has led me into leadership roles and the entrepreneurial path. Both massive learning and humbling experiences. I stand for empathy, quality and find details important. I have been learning and implementing hard, and now the time has come to contribute my strong front end and average back end skill sets to your (next) project(s).
 
 - 🔭 I'm currently enrolled in a full-stack coding education program.
 - 🌱 I'm learning [Vue 3](https://v3.vuejs.org/) & [Python](https://www.python.org/) on the side.
-- 🔎 I'm looking for beginner projects.
+- 🔎 I'm open to full stack web developer projects.
 
 ## 🛠 Stack
 
-![VSCODE](https://img.shields.io/badge/VSCODE-black?style=flat&logo=visual-studio-code)
-![BASH](https://img.shields.io/badge/BASH-black?style=flat&logo=gnu-bash)
+[![VSCODE](https://img.shields.io/badge/VSCODE-black?style=flat&logo=visual-studio-code)](https://code.visualstudio.com/)
+[![BASH](https://img.shields.io/badge/BASH-black?style=flat&logo=gnu-bash)](https://www.gnu.org/software/bash/)
 
-![HTML](https://img.shields.io/badge/HTML-red?style=flat&logo=html5&logoColor=white)
+[![HTML5](https://img.shields.io/badge/HTML5-red?style=flat&logo=html5&logoColor=white)](https://html.com/)
+[![MARKDOWN](https://img.shields.io/badge/MARKDOWN-red?style=flat&logo=markdown)](https://www.markdownguide.org/)
 
-![CSS](https://img.shields.io/badge/CSS-blue?style=flat&logo=css3)
-![SASS](https://img.shields.io/badge/SASS-blue?style=flat&logo=sass)
-![TAILWIND](https://img.shields.io/badge/TAILWIND-blue?style=flat&logo=tailwind-css)
-![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-blue?style=flat&logo=bootstrap)
+[![CSS3](https://img.shields.io/badge/CSS3-blue?style=flat&logo=css3)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![SASS](https://img.shields.io/badge/SASS-blue?style=flat&logo=sass)](https://sass-lang.com/)
+[![TAILWIND](https://img.shields.io/badge/TAILWIND-blue?style=flat&logo=tailwind-css)](https://tailwindcss.com/)
+[![BOOTSTRAP](https://img.shields.io/badge/BOOTSTRAP-blue?style=flat&logo=bootstrap)](https://getbootstrap.com/)
 
-![JS](https://img.shields.io/badge/JS-yellow?style=flat&logo=javascript&logoColor=white)
-![VUE3](https://img.shields.io/badge/VUE3-yellow?style=flat&logo=vue.js)
-![REACT](https://img.shields.io/badge/REACT-yellow?style=flat&logo=react)
+[![JS](https://img.shields.io/badge/JS-yellow?style=flat&logo=javascript&logoColor=white)](https://www.javascript.com/)
+[![VUE3](https://img.shields.io/badge/VUE3-yellow?style=flat&logo=vue.js)](https://v3.vuejs.org/)
+[![REACT](https://img.shields.io/badge/REACT-yellow?style=flat&logo=react)](https://reactjs.org/)
 
-![PHP](https://img.shields.io/badge/PHP-purple?style=flat&logo=php)
-![MARIADB](https://img.shields.io/badge/MariaDB-purple?style=flat&logo=mariadb)
-![MYSQL](https://img.shields.io/badge/MySQL-purple?style=flat&logo=mysql)
+[![PHP](https://img.shields.io/badge/PHP-purple?style=flat&logo=php)](https://www.php.net/)
+[![NODE](https://img.shields.io/badge/NODE-purple?style=flat&logo=node.js)](https://nodejs.org/en/)
+[![MARIADB](https://img.shields.io/badge/MariaDB-purple?style=flat&logo=mariadb)](https://mariadb.org/)
+[![MYSQL](https://img.shields.io/badge/MySQL-purple?style=flat&logo=mysql)](https://www.mysql.com/)
+[![MONGODB](https://img.shields.io/badge/MongoDB-purple?style=flat&logo=mongodb)](https://www.mongodb.com/)
 
 <!-- ## 📊 Stats -->
-<!-- [![Github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mattiasbonte&show_icons=true&theme=algolia&hide=html,makefile&langs_count=4&count_private=true)](https://github.com/mattiasbonte/github-readme-stats) -->
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=mattiasbonte&show_icons=true&theme=algolia)](https://github.com/mattiasbonte/github-readme-stats)
