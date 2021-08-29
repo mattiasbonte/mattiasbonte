@@ -17,8 +17,7 @@
 
 ## 👨🏼‍💻 About
 
-- 💼 I'm currently creating Laravel REST API's for [guideline](https://www.guideline.be/).
-- 🔎 I'm actively looking for a new JavaScript focussed (remote) position as a full stack developer.
+- 💼 I'm currently working for [bothive](https://www.bothive.be/) as a full stack JavaScript Developer.
 
 ## 🛠 Stack
 
