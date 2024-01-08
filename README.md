@@ -11,9 +11,7 @@
   <img width="25px" alt="Mattias' GitHub" title="Inspect my GitHub repositories" src="https://cdn.jsdelivr.net/npm/simple-icons@3.11.0/icons/github.svg" />
 </a>
 
-## Welcome 👋🏼...
-
-![Profile views](https://gpvc.arturio.dev/mattiasbonte)
+## Welcome 👋🏼
 
 ## 👨🏼‍💻 About
 
